@@ -1,6 +1,13 @@
 # shopapp
 
-A new Flutter project.
+A basic Flutter project wtih basic UI ,routes,Images etc.
+
+## ScreenShots
+
+![Screenshot_2020-08-13-19-32-53-31_adc1ca419cc63bf4b7c76e7e7b3d969d](https://user-images.githubusercontent.com/48161576/90231045-29db6380-de38-11ea-9cea-03de9d1144e0.jpg)
+![Screenshot_2020-08-13-19-32-54-95_adc1ca419cc63bf4b7c76e7e7b3d969d](https://user-images.githubusercontent.com/48161576/90231055-2c3dbd80-de38-11ea-962e-1bd305e006c8.jpg)
+
+
 
 ## Getting Started
 
